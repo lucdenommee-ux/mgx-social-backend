@@ -1,0 +1,13 @@
+{
+  "name": "mgx-social-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vercel serverless backend for MGX social integration",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
